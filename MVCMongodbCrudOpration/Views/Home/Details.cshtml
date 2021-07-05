@@ -1,0 +1,36 @@
+﻿@model MVCMongodbCrudOpration.Models.info
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>info</legend>
+
+    <div class="display-label">info_id</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.info_id)
+    </div>
+
+    <div class="display-label">firstname</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.firstname)
+    </div>
+
+    <div class="display-label">lastname</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.lastname)
+    </div>
+
+    <div class="display-label">age</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.age)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id=Model.info_id  }) |
+    @Html.ActionLink("Back to List", "MongoDBHome")
+</p>

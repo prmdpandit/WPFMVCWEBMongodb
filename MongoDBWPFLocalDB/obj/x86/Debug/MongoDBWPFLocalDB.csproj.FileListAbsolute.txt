@@ -1,0 +1,17 @@
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDBWPFLocalDB.exe
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDBWPFLocalDB.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Bson.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\bin\Debug\MongoDB.Driver.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MainWindow.baml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MainWindow.g.cs
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\App.g.cs
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB_MarkupCompile.cache
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.g.resources
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.Properties.Resources.resources
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.csproj.GenerateResource.Cache
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.exe
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MongoDBWPFLocalDB\obj\x86\Debug\MongoDBWPFLocalDB.pdb

@@ -1,0 +1,12 @@
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MVCMongodbCrudOpration.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MVCMongodbCrudOpration.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\EntityFramework.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MongoDB.Bson.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MongoDB.Driver.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\EntityFramework.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MongoDB.Bson.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MongoDB.Bson.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MongoDB.Driver.pdb
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\bin\MongoDB.Driver.xml
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\obj\Debug\MVCMongodbCrudOpration.dll
+D:\myworks 10-12-2012\MongoDBWPFLocalDB\MVCMongodbCrudOpration\obj\Debug\MVCMongodbCrudOpration.pdb
